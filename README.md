@@ -13,6 +13,14 @@ This webapp was developed using Flask Web Framework and was deployed on Heroku s
 | -------------- | ------------------------ | -------- |
 | Pneumonia      | Deep Learning Model(CNN) | 95%      |
 
+## HOMEPAGE
+
+![Screenshot (622)](https://user-images.githubusercontent.com/88899234/160613163-ffd5a6ae-d3fe-4ffc-8563-e4b4089662c3.png)
+
+## TESTPAGE
+
+![Screenshot (623)](https://user-images.githubusercontent.com/88899234/160613520-11c03201-84cb-4986-9a73-be072f78fa4e.png)
+
 ## NOTE
 
 ==> You can access the website live at: https://pneumoniadetector.azurewebsites.net/ <br>
