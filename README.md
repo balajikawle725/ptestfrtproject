@@ -21,6 +21,12 @@ This webapp was developed using Flask Web Framework and was deployed on Heroku s
 
 ![Screenshot (623)](https://user-images.githubusercontent.com/88899234/160613520-11c03201-84cb-4986-9a73-be072f78fa4e.png)
 
+## PROJECT DEMO VIDEO
+
+
+https://user-images.githubusercontent.com/88899234/161116804-21b48930-bd44-4f72-a5d2-24445a56beac.mp4
+
+
 ## NOTE
 
 ==> You can access the website live at:http://pneumoniadetectplus.azurewebsites.net/  <br>
